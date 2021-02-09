@@ -1,4 +1,8 @@
-A built version of (this Gen3 Data Dictionary Visualizer)[https://github.com/bioteam/dictionary-visualizer].
+# Gen3 Data Dictionary Visualizer (Built)
+
+A built version of [this Gen3 Data Dictionary Visualizer](https://github.com/bioteam/dictionary-visualizer).
+
+# Instructions
 
 To use this visualizer,
 
